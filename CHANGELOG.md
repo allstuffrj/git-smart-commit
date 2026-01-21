@@ -1,0 +1,26 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0] - 2025-01-19
+
+### Added
+- Initial release
+- Automatic commit message generation
+- Support for all conventional commit types
+- Interactive mode for message editing
+- Change statistics in commit body
+- File categorization (docs, tests, CI, etc.)
+- Automatic scope detection from project structure
+- Zero-configuration setup
+
+### Features
+- Analyzes staged changes
+- Generates conventional commit messages
+- Shows file changes with emoji indicators
+- Provides interactive type selection
+- Manual edit mode
+- Displays addition/deletion statistics
