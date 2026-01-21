@@ -37,7 +37,7 @@ Feature suggestions are welcome! Please:
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/git-smart-commit.git
+git clone https://github.com/allstuffrj/git-smart-commit.git
 cd git-smart-commit
 
 # Create virtual environment

@@ -8,12 +8,12 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 setup(
     name='git-smart-commit',
     version='1.0.0',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='allstuffrj',
+    author_email='allstuffrj@gmail.com',
     description='Intelligent Git commit message generator',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/YOUR_USERNAME/git-smart-commit',
+    url='https://github.com/allstuffrj/git-smart-commit.git',
     py_modules=['git_smart_commit'],
     classifiers=[
         'Development Status :: 4 - Beta',
@@ -36,7 +36,7 @@ setup(
     },
     keywords='git commit conventional-commits automation developer-tools',
     project_urls={
-        'Bug Reports': 'https://github.com/YOUR_USERNAME/git-smart-commit/issues',
-        'Source': 'https://github.com/YOUR_USERNAME/git-smart-commit',
+        'Bug Reports': 'https://github.com/allstuffrj/git-smart-commit.git/issues',
+        'Source': 'https://github.com/allstuffrj/git-smart-commit.git',
     },
 )

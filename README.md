@@ -26,7 +26,7 @@
 pip install git-smart-commit
 
 # Or download and run directly
-curl -o git-smart-commit https://raw.githubusercontent.com/YOUR_USERNAME/git-smart-commit/main/git_smart_commit.py
+curl -o git-smart-commit https://raw.githubusercontent.com/allstuffrj/git-smart-commit/main/git_smart_commit.py
 chmod +x git-smart-commit
 ```
 
@@ -149,7 +149,7 @@ If this tool saves you time, give it a ⭐️ on GitHub!
 
 ## 💬 Feedback
 
-Found a bug? Have a feature request? [Open an issue](https://github.com/YOUR_USERNAME/git-smart-commit/issues)
+Found a bug? Have a feature request? [Open an issue](https://github.com/allstuffrj/git-smart-commit.git/issues)
 
 ---
 
